@@ -1,0 +1,23 @@
+site_name: XD torrent client documentation
+site_url: https://xd-torrent.readthedocs.io
+site_description: XD torrent client documentation
+site_author: XD developers team
+
+repo_url: https://github.com/xd-torrent/xd-docs
+
+site_favicon: media/xd-logo.png
+
+pages:
+- Home: index.md
+- User Guide:
+    - Install: user-guide/install.md
+    - Run: user-guide/run.md
+    - Configuration: user-guide/configuration.md
+
+copyright: MIT License, Maintained by the XD developers team
+theme: readthedocs
+
+
+markdown_extensions:
+    - toc:
+        permalink: 
