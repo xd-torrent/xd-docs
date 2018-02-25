@@ -1,9 +1,11 @@
-# Getting started with XD
+## Requirements
 
 XD uses Invisible Internet Protocol (I2P) for anonymizing and encrypting connections.
-Thus it requires user to run I2P router with SAM bridge enabled.
+Thus it **requires user to run I2P router with SAM bridge enabled**.
 
-[i2pd](http://i2pd.website) has SAM bridge enabled by default, [Java implementation](https://geti2p.net) will work too.
+[i2pd](http://i2pd.website) has SAM bridge enabled by default and is recommended, [Java implementation](https://geti2p.net) will work too.
+
+## Getting started with XD
 
 Once you have built or obtained a release, a webui will be enabled by default at http://127.0.0.1:1488/ .
 

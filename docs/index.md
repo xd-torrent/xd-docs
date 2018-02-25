@@ -1,7 +1,7 @@
 ![Logo](media/xd-logo.png)
 
-XD: Anonymous filesharing. Torrent client for I2P
-=================================================
+XD: Anonymous file sharing client
+=================================
 
 Features
 --------

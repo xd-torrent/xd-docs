@@ -1,5 +1,3 @@
-# Installing
-
 ## Binary files
 
 You can find binaries for your operating system at [releases page](https://github.com/majestrate/XD/releases).
