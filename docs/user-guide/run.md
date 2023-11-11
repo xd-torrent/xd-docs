@@ -21,7 +21,7 @@ After started put torrent files into `./storage/downloads/` to start downloading
 
 To seed torrents put data files into `./storage/downloads/` first then add torrent files.
 
-If you compiled with web ui it will be up at http://127.0.0.1:1488/ .
+If you compiled with web ui it will be up at http://127.0.0.1:1776/ .
 
 To use the command line tool you must symlink the `XD` binary to `XD-cli`:
 
